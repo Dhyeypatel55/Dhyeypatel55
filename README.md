@@ -4,11 +4,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shiv-jani-56973a26b/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif?cid=ecf05e47fjydjg4w996nih5dfro79bzmvugcoqritorbvyqy&ep=v1_stickers_search&rid=giphy.gif&ct=ts" /></a>
+  <a href="https://www.linkedin.com/in/dhyey-patel-256600309/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif?cid=ecf05e47fjydjg4w996nih5dfro79bzmvugcoqritorbvyqy&ep=v1_stickers_search&rid=giphy.gif&ct=ts" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/jani_712"><img width="40px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/jani._.712/" target="_blank">
+<a href="https://www.instagram.com/itsmee_dhyey/" target="_blank">
   <img width="40px" alt="Instagram" title="Follow me on Instagram" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW04aWNhdHJ0bDlrc21ta3I3NGtrZWhhNmJmZHZpbnZvZ2d4cTIxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jqVUX17Ze8mw0nXBbJ/giphy.gif" />
 </a>
 </p>
@@ -45,7 +43,7 @@
 
   <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1cWc2dW5zd2lsMjRiY3RyNHN2OTRuZDBrdnBvaGhjMWtyc2JxeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="55%" />
 
-Hey there! I'm **Shiv Jani**, a creative and driven **Frontend Developer** with a deep love for **React.js**, **Web Development**, and **Digital Marketing**. 🚀
+Hey there! I'm **Dhyey Patel**, a creative and driven **Frontend Developer** with a deep love for **React.js**, **Web Development**, and **Digital Marketing**. 🚀
 
 Currently, I’m exploring powerful technologies through projects like:
 - ✨ **Reiki Healing Platforms** – blending tech with spiritual wellness  

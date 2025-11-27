@@ -123,7 +123,8 @@
   <a href="https://github.com/Dhyeypatel55" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" />
   </a>
-</p>
+</p> &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+
 
 # 🌟 **My Premium Quote**
 ```yaml

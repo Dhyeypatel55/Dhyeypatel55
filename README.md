@@ -114,7 +114,7 @@
   <a href="https://www.instagram.com/itsmee_dhyey/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="mailto:dhyeyh01@gmail.com" target="_blank">
+  <a href="dhyeyh01@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/Dhyeypatel55" target="_blank">

@@ -128,9 +128,11 @@
   <a href="https://www.linkedin.com/in/dhyey-patel-256600309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://github.com/Dhyeypatel55" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="dhyeyh01@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

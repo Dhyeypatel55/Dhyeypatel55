@@ -21,7 +21,7 @@
 
 # 🧑‍🚀 **About Me**
 🎯 A futuristic **DevOps + Cloud Engineer**  
-⚙ Skilled in **Azure, Docker, Kubernetes, Linux, CI/CD, Jenkins**  
+⚙ Skilled in **AWS, Azure, Docker, Kubernetes, Linux, CI/CD, Jenkins**  
 🌐 Building premium **web applications**  
 💻 Passionate about automation, performance, scale  
 🚀 Aim: Create tech that looks and feels next-gen  

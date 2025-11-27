@@ -106,19 +106,21 @@
 ---
 
 # 🌐 **Connect With Me**
-<p align="center">
+<h3 align="left">Let's Connect:</h3>
+<div align="left">
   <a href="https://www.linkedin.com/in/dhyey-patel-256600309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  
+  <a href="https://www.instagram.com/itsmee_dhyey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:dhyeyh01@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
+  </a>
   <a href="https://github.com/Dhyeypatel55" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
-  
-  <a href="dhyeyh01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 

@@ -32,19 +32,52 @@
 
 # 🚀 Skills Overview With Level Bars
 
+<style>
+.bar-container {
+  width: 350px;
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  margin-bottom: 8px;
+}
+.bar-fill {
+  height: 14px;
+  border-radius: 10px;
+  background: linear-gradient(90deg, #00eaff, #007bff);
+}
+.bar-text {
+  font-weight: bold;
+  padding-bottom: 3px;
+}
+</style>
+
 ### ⚙ DevOps & Cloud
 
-| Skill | Level |
-|-------|-------|
-| **AWS Cloud** | ![AWS](https://progress-bar.dev/92/?width=300&color=00eaff) |
-| **Azure Cloud** | ![Azure](https://progress-bar.dev/88/?width=300&color=0078ff) |
-| **Linux (Ubuntu/CentOS)** | ![Linux](https://progress-bar.dev/88/?width=300&color=ffd000) |
-| **Docker** | ![Docker](https://progress-bar.dev/85/?width=300&color=0099ff) |
-| **Kubernetes (K8s)** | ![K8s](https://progress-bar.dev/82/?width=300&color=326ce5) |
-| **CI/CD Pipelines** | ![CI/CD](https://progress-bar.dev/80/?width=300&color=ff00ff) |
-| **GitHub Actions** | ![GHA](https://progress-bar.dev/78/?width=300&color=4caf50) |
-| **Terraform** | ![Terraform](https://progress-bar.dev/75/?width=300&color=7b42bc) |
-| **Jenkins** | ![Jenkins](https://progress-bar.dev/74/?width=300&color=d33833) |
+**AWS Cloud — 92%**
+<div class="bar-container"><div class="bar-fill" style="width:92%"></div></div>
+
+**Azure Cloud — 88%**
+<div class="bar-container"><div class="bar-fill" style="width:88%"></div></div>
+
+**Linux (Ubuntu/CentOS) — 88%**
+<div class="bar-container"><div class="bar-fill" style="width:88%"></div></div>
+
+**Docker — 85%**
+<div class="bar-container"><div class="bar-fill" style="width:85%"></div></div>
+
+**Kubernetes — 82%**
+<div class="bar-container"><div class="bar-fill" style="width:82%"></div></div>
+
+**CI/CD Pipelines — 80%**
+<div class="bar-container"><div class="bar-fill" style="width:80%"></div></div>
+
+**GitHub Actions — 78%**
+<div class="bar-container"><div class="bar-fill" style="width:78%"></div></div>
+
+**Terraform — 75%**
+<div class="bar-container"><div class="bar-fill" style="width:75%"></div></div>
+
+**Jenkins — 74%**
+<div class="bar-container"><div class="bar-fill" style="width:74%"></div></div>
 
 ---
 

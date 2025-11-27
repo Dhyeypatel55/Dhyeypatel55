@@ -105,23 +105,23 @@
 
 ---
 
-# 🌐 **Connect With Me**
+### 🌐 Connect With Me
+
 <h3 align="left">Let's Connect:</h3>
-<div align="left">
+<div align="left" style="display: flex; gap: 15px;">
   <a href="https://www.linkedin.com/in/dhyey-patel-256600309/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/itsmee_dhyey/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="dhyeyh01@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
+  <a href="mailto:dhyeyh01@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/ea4335" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/Dhyeypatel55" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
 </div>
-
 ---
 
 # 🌟 **My Premium Quote**

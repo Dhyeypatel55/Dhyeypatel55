@@ -1,66 +1,34 @@
-<h1 align="center">👋 Hi, I'm Dhyey Patel</h1>
-<p align="center">Cloud • DevOps • Full-Stack Developer</p>
-
----
-
-## 👨‍💻 About Me
-- 🌩️ Cloud & DevOps enthusiast (Azure-focused)  
-- 🛠️ Full-stack web developer  
-- 🚀 I love building real-world projects that solve real problems  
-- 🧠 Learning: CI/CD, Docker, Kubernetes, Infra Automation  
-- 🎮 BGMI Player (Full Gyro – Fast Reflex Playstyle)
-
----
-
-## 🔧 Tech Stack
-**Cloud & DevOps:**  
-Azure • Docker • GitHub Actions • CI/CD • Linux • Nginx • Apache  
-
-**Web Development:**  
-HTML • CSS • JavaScript • React • Node.js • Express  
-
-**Programming:**  
-Python • Java • C  
-
-**Databases:**  
-MySQL • MongoDB
-
----
-
-## 📌 Featured Projects (Pinned Style)
-
-### 🔹 FarmSavvy — Smart Agriculture Platform  
-A complete agriculture & crop-management web portal with reviews, info sections, and clean UI.
-
-### 🔹 Flavor Nexus — Food Menu + Review Web App  
-A food-rating & menu display system with UI/UX-focused pages.
-
-### 🔹 Gaming Blog Platform  
-A gaming blog website with membership system, posts, and admin dashboard.
-
-### 🔹 Film Review Website  
-A movie/series review platform with user accounts and clean layout.
-
-### 🔹 DevOps Infrastructure Playground  
-CI/CD experiments • Azure deployments • Dockerized apps • Linux automation.
-
-### 🔹 Budget Planner  
-Simple, clean budgeting tool for monthly finance tracking.
-
----
-
-## 📊 GitHub Stats
+<!-- 🌈 ULTIMATE PREMIUM HEADER -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhyey31&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhyey31&theme=default" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Digital+Universe+🌌;I'm+Dhyey+Patel+🔥;DevOps+Engineer+%7C+Cloud+Architect+%7C+Web+Developer;I+Build+Futuristic+Tech+%F0%9F%94%AE" />
+</p>
+
+<!-- 🌊 GRADIENT WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3AE7FF&height=180&section=header&text=Dhyey%20Patel&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- 🟦 GLASSMORPHISM CARD -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-00E5FF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Cloud%20Developer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-ff0099?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-<p align="center">✨ Thanks for visiting my profile!</p>
+---
+
+# 🧑‍🚀 **About Me**
+🎯 A futuristic **DevOps + Cloud Engineer**  
+⚙ Skilled in **Azure, Docker, Kubernetes, Linux, CI/CD, Jenkins**  
+🌐 Building premium **web applications**  
+💻 Passionate about automation, performance, scale  
+🚀 Aim: Create tech that looks and feels next-gen  
+🔥 Motto: *"Automate Everything. Break → Fix → Improve → Repeat."*
+
+---
+
+# 🚀 **Skills Overview With Level Bars**
+
+### ⚙ DevOps & Cloud

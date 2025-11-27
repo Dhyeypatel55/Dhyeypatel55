@@ -1,83 +1,68 @@
-<h1 align="center">Hi 👋, I'm Dhyey Patel</h1>
-<h3 align="center">DevOps & Cloud Engineer | Web Developer | Tech Enthusiast</h3>
-
----
-
-### 🚀 About Me  
-- 🔧 Currently working on **DevOps & Cloud projects** (Azure & AWS)  
-- 💼 Doing an internship at **Accelleron**  
-- ☁ Strong knowledge in **CI/CD, Docker, Linux, Load Balancing, Monitoring**  
-- 🌐 Building multiple **web projects** (farm, menu, gaming, review & e-commerce)  
-- 🎯 Goal: Become a **strong Cloud + DevOps Engineer**  
-- 📚 Learning: Kubernetes, Terraform, GitHub Actions  
-
----
-
-## 🛠️ Tech Stack
-
-### **DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### **Programming**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<!--  🌈 PREMIUM HEADER  -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E8FF&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Dhyey+Patel+👋;DevOps+Engineer+%7C+Cloud+%7C+Web+Developer;Always+Learning+New+Things+💡" />
 </p>
 
 ---
 
-## 📦 Featured Projects
-
-### 🔹 **DevOps Infra Projects**
-- **Azure CI/CD Pipeline Setup** – Using GitHub Actions  
-- **Nginx/Apache Load Balancer on Ubuntu**  
-- **Containerized Web App using Docker**  
-- **Jenkins CI Pipeline + GitHub Integration**  
-- **MongoDB Setup on Ubuntu Server + Remote Compass Access**
-
-### 🔹 **Web Projects**
-- 🌾 **FarmSavvy** – Agriculture-focused website  
-- 🍽️ **Flavor Nexus** – Food Menu & Review Website  
-- 🎮 **Gaming Blog** – Membership + Game Redirections  
-- 🎥 **Film Review Website** – Clean UI + Auth System  
-- 💸 **Budget Planning Web App**  
+<!--  ✨ GRADIENT BANNER SECTION  -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&height=150&section=header&text=Dhyey%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 **About Me**
+✨ A passionate **DevOps & Cloud Engineer**  
+🔧 Skilled in **Azure, Docker, Linux, CI/CD Pipelines**  
+💻 Also a **Full-Stack Web Developer**  
+🌱 Currently improving my **Kubernetes & Terraform skills**  
+🚀 Love building futuristic, clean, and useful projects  
+
+---
+
+# ⚙️ **Tech Stack**
+
+### 🚀 **DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,githubactions,jenkins,terraform" />
+</p>
+
+### 💻 **Programming**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp" />
+</p>
+
+### 🎨 **Web Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+---
+
+# 📦 **Featured Projects**
+### 🚀 **DevOps Projects**
+- 🌀 Azure CI/CD Pipeline — GitHub Actions  
+- 🧊 Dockerized Web App  
+- ⚡ Nginx/Apache Load Balancer Setup  
+- 🔐 MongoDB Server + Compass Remote Access  
+- 🔁 Jenkins Pipeline + GitHub Integration  
+
+### 🌐 **Web Projects**
+- 🌾 **FarmSavvy** — Agriculture Website  
+- 🍽️ **Flavor Nexus** — Menu + Review Platform  
+- 🎮 **Gaming Blog** — Membership + Redirection  
+- 🎥 **Film Review Website**  
+- 💸 **Budget Planning Web App**
+
+---
+
+# 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhyeyPatel&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyPatel&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DhyeyPatel&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyPatel&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🌍 Connect With Me
-<p>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **Thanks for visiting my profile!**  
+<p align="center">
+  <img src="https://gi

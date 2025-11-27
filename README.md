@@ -34,22 +34,22 @@
 ### ⚙ DevOps & Cloud
 | Tech Stack | Proficiency | Level |
 |:--- |:--- |:--- |
-| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> | <img src="https://progress-bar.dev/92?title=kw&width=200" alt="92%" /> | **92%** |
-| <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" /> | <img src="https://progress-bar.dev/88?title=kw&width=200" alt="88%" /> | **88%** |
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> | <img src="https://progress-bar.dev/88?title=kw&width=200" alt="88%" /> | **88%** |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> | <img src="https://progress-bar.dev/85?title=kw&width=200" alt="85%" /> | **85%** |
-| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> | <img src="https://progress-bar.dev/82?title=kw&width=200" alt="82%" /> | **82%** |
-| <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=github&logoColor=white" /> | <img src="https://progress-bar.dev/80?title=kw&width=200" alt="80%" /> | **80%** |
-| <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />| <img src="https://progress-bar.dev/78?title=kw&width=200" alt="78%" /> | **78%** |
-| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" /> | <img src="https://progress-bar.dev/75?title=kw&width=200" alt="75%" /> | **75%** |
-| <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> | <img src="https://progress-bar.dev/74?title=kw&width=200" alt="74%" /> | **74%** |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> | <img src="https://geps.dev/progress/92" alt="92%" /> | **92%** |
+| <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" /> | <img src="https://geps.dev/progress/88" alt="88%" /> | **88%** |
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> | <img src="https://geps.dev/progress/88" alt="88%" /> | **88%** |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> | <img src="https://geps.dev/progress/85" alt="85%" /> | **85%** |
+| <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> | <img src="https://geps.dev/progress/82" alt="82%" /> | **82%** |
+| <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=github&logoColor=white" /> | <img src="https://geps.dev/progress/80" alt="80%" /> | **80%** |
+| <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />| <img src="https://geps.dev/progress/78" alt="78%" /> | **78%** |
+| <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" /> | <img src="https://geps.dev/progress/75" alt="75%" /> | **75%** |
+| <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> | <img src="https://geps.dev/progress/74" alt="74%" /> | **74%** |
 
 ### 💻 Programming Languages
 | Language | Proficiency | Level |
 |:--- |:--- |:--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://progress-bar.dev/90?title=kw&width=200" alt="90%" /> | **90%** |
-| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> | <img src="https://progress-bar.dev/85?title=kw&width=200" alt="85%" /> | **85%** |
-| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> | <img src="https://progress-bar.dev/75?title=kw&width=200" alt="75%" /> | **75%** |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://geps.dev/progress/90" alt="90%" /> | **90%** |
+| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> | <img src="https://geps.dev/progress/85" alt="85%" /> | **85%** |
+| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> | <img src="https://geps.dev/progress/75" alt="75%" /> | **75%** |
 ---
 
 # 🎨 Tech Stack — Neon Icons 

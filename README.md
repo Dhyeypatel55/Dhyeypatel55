@@ -30,26 +30,51 @@
 
 ---
 
-# 🚀 **Skills Overview With Level Bars**
+# 🚀 Skills Overview With Level Bars
 
 ### ⚙ DevOps & Cloud
-AWS Cloud ██████████████████░░ 92%
-Azure Cloud ████████████████░░░░ 88%
-Linux (Ubuntu/CentOS) ███████████████░░░░░ 85%
-Docker ██████████████░░░░░░ 82%
-Kubernetes (K8s) █████████████░░░░░░░ 78%
-CI/CD Pipelines █████████████░░░░░░░ 80%
-GitHub Actions ████████████░░░░░░░░ 75%
-Terraform ████████████░░░░░░░░ 74%
-Jenkins ████████████░░░░░░░░ 72%
 
+| Skill | Level |
+|-------|-------|
+| **AWS Cloud** | ![AWS](https://progress-bar.dev/92/?width=300&color=00eaff) |
+| **Azure Cloud** | ![Azure](https://progress-bar.dev/88/?width=300&color=0078ff) |
+| **Linux (Ubuntu/CentOS)** | ![Linux](https://progress-bar.dev/88/?width=300&color=ffd000) |
+| **Docker** | ![Docker](https://progress-bar.dev/85/?width=300&color=0099ff) |
+| **Kubernetes (K8s)** | ![K8s](https://progress-bar.dev/82/?width=300&color=326ce5) |
+| **CI/CD Pipelines** | ![CI/CD](https://progress-bar.dev/80/?width=300&color=ff00ff) |
+| **GitHub Actions** | ![GHA](https://progress-bar.dev/78/?width=300&color=4caf50) |
+| **Terraform** | ![Terraform](https://progress-bar.dev/75/?width=300&color=7b42bc) |
+| **Jenkins** | ![Jenkins](https://progress-bar.dev/74/?width=300&color=d33833) |
 
 ---
 
-# 🎨 **Tech Stack — Neon Icons**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,githubactions,jenkins,nginx,git,python,java,js,html,css,react,nodejs,mongodb,mysql,figma" />
+# 🎨 Tech Stack — Neon Icons (Organized)
+
+## ☁ **Cloud Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
+
+## 🛠 **DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions,nginx,git,linux" />
+</p>
+
+## 💻 **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs" />
+</p>
+
+## 🗄 **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## 🎨 **Frontend & UI Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,figma" />
+</p>
+
 
 ---
 

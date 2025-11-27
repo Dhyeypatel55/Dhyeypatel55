@@ -32,24 +32,6 @@
 
 # 🚀 Skills Overview With Level Bars
 
-<style>
-.bar-container {
-  width: 350px;
-  background-color: #1a1a1a;
-  border-radius: 10px;
-  margin-bottom: 8px;
-}
-.bar-fill {
-  height: 14px;
-  border-radius: 10px;
-  background: linear-gradient(90deg, #00eaff, #007bff);
-}
-.bar-text {
-  font-weight: bold;
-  padding-bottom: 3px;
-}
-</style>
-
 ### ⚙ DevOps & Cloud
 
 **AWS Cloud — 92%**

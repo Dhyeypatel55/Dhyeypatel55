@@ -10,52 +10,64 @@
 
 ---
 
-<!-- 🟦 GLASSMORPHISM CARD -->
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps%20Engineer-00E5FF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Cloud%20Developer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-ff0099?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
-
----
-
 # 🧑‍🚀 **About Me**
 🎯 A futuristic **DevOps + Cloud Engineer**  
-⚙ Skilled in **AWS, Azure, Docker, Kubernetes, Linux, CI/CD, Jenkins**  
-🌐 Building premium **web applications**  
-💻 Passionate about automation, performance, scale  
-🚀 Aim: Create tech that looks and feels next-gen  
-🔥 Motto: *"Automate Everything. Break → Fix → Improve → Repeat."*
+⚙ Skilled in **Azure, Docker, Kubernetes, Linux, CI/CD, Jenkins**  
+🌐 Building premium **modern web applications**  
+💻 Passionate about automation, performance & scale  
+🔥 Motto: *"Automate Everything. Break → Fix → Improve → Repeat."*  
+🚀 Goal: Become a top-tier DevOps/Cloud architect  
 
 ---
 
 # 🚀 **Skills Overview With Level Bars**
 
-### ⚙ DevOps & Cloud
+<!-- 🔥 PREMIUM SKILL BARS -->
+<style>
+.bar { 
+  background: #1a1a1a; 
+  border-radius: 10px; 
+  padding: 4px; 
+  margin-bottom: 10px;
+}
+.bar-inner {
+  height: 18px; 
+  border-radius: 8px;
+}
+</style>
 
-Azure ████████████████░░ 90%
-Docker ██████████████░░░░ 85%
-Linux ██████████████░░░░ 82%
-CI/CD Pipelines █████████████░░░░░ 80%
-GitHub Actions █████████████░░░░░ 78%
-Kubernetes ████████████░░░░░░ 70%
+### ⚙ **DevOps & Cloud**
+<div class="bar"><div class="bar-inner" style="width:90%; background:#00e5ff;"></div></div> **Azure — 90%**  
+<div class="bar"><div class="bar-inner" style="width:85%; background:#00c3ff;"></div></div> **Docker — 85%**  
+<div class="bar"><div class="bar-inner" style="width:82%; background:#0099ff;"></div></div> **Linux — 82%**  
+<div class="bar"><div class="bar-inner" style="width:80%; background:#0077ff;"></div></div> **CI/CD Pipelines — 80%**  
+<div class="bar"><div class="bar-inner" style="width:78%; background:#0055ff;"></div></div> **GitHub Actions — 78%**  
+<div class="bar"><div class="bar-inner" style="width:70%; background:#0033ff;"></div></div> **Kubernetes — 70%**
 
 ---
 
 # 🎨 **Tech Stack — Neon Icons**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,githubactions,jenkins,terraform,nginx,git,python,java,js,html,css,react,nodejs,figma,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,githubactions,jenkins,nginx,terraform,git,python,java,js,html,css,react,nodejs,figma,mongodb,mysql&theme=light" />
 </p>
 
 ---
 
 # 🏆 **My Achievements**
-✨ Built complete DevOps CI/CD pipelines  
-🔥 Designed multiple modern websites  
-🧪 Completed several real-world cloud projects  
-🎯 Skilled in Automation + Deployment + Infra  
-🏅 Strong foundation in server setup & load balancing  
-🚀 Always improving + scaling skills  
+✨ Built multiple full CI/CD pipelines (Azure + GitHub Actions + Docker)  
+🔥 Designed & deployed modern responsive websites  
+🧪 Completed real-world infra setups (Load Balancer, Reverse Proxy, SSL)  
+🔐 Hands-on with automation, scaling, monitoring  
+🚀 Built strong foundation on DevOps, cloud & distributed systems  
+
+---
+
+# 🤝 **Connect With Me**
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff0055?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 

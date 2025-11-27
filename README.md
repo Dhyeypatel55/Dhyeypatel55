@@ -56,9 +56,8 @@
 | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> | <img src="https://geps.dev/progress/70" alt="70%" /> | **70%** |
 | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> | <img src="https://geps.dev/progress/65" alt="65%" /> | **65%** |
 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> | <img src="https://geps.dev/progress/60" alt="60%" /> | **60%** |
-| <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> | <img src="https://geps.dev/progress/60" alt="60%" /> | **60%** |
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> | <img src="https://geps.dev/progress/80" alt="80%" /> | **80%** |
 | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> | <img src="https://geps.dev/progress/60" alt="60%" /> | **60%** |
-| <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" /> | <img src="https://geps.dev/progress/95" alt="95%" /> | **95%** |
 | <img src="https://img.shields.io/badge/Prolog-A90533?style=flat&logo=swi-prolog&logoColor=white" /> | <img src="https://geps.dev/progress/50" alt="50%" /> | **50%** |
 ---
 

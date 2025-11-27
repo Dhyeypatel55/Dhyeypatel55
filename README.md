@@ -63,7 +63,7 @@
 
 ---
 
-# 🎨 Tech Stack — Neon Icons (Organized)
+# 🎨 Tech Stack — Neon Icons 
 
 ## ☁ **Cloud Platforms**
 <p align="left">

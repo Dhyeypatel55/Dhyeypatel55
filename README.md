@@ -1,68 +1,44 @@
-<!--  🌈 PREMIUM HEADER  -->
+<!-- 🌈 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E8FF&center=true&vCenter=true&width=550&lines=Hey+There!+I'm+Dhyey+Patel+👋;DevOps+Engineer+%7C+Cloud+%7C+Web+Developer;Always+Learning+New+Things+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=11F7FF&center=true&vCenter=true&width=650&lines=Welcome+To+My+Tech+Space+👋;I'm+Dhyey+Patel+🚀;DevOps+Engineer+%7C+Cloud+%7C+Developer;Building+Cool+Things+Everyday+💡" />
+</p>
+
+<!-- 🌊 LIGHT WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC5FE&height=160&section=header&text=Dhyey%20Patel&fontSize=48&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 ---
 
-<!--  ✨ GRADIENT BANNER SECTION  -->
+# 💫 **Who Am I?**
+✨ A creative **DevOps & Cloud Engineer** who loves automation  
+🌀 Works with **Azure, Docker, Linux, CI/CD Pipelines, GitHub Actions**  
+🌱 Learning: **Kubernetes, Terraform, Monitoring, Security**  
+🌐 Also a clean & modern **Web Developer**  
+🎮 Gamer | 💻 Coder | 🚀 Innovator  
+🔥 I believe in **creating, breaking, improving & repeating**
+
+---
+
+# 🛠️ **Tech Stack — With Stylish Icons**
+
+### 🚀 **DevOps / Cloud**
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&height=150&section=header&text=Dhyey%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,githubactions,jenkins,terraform,nginx,git"/>
+</p>
+
+### 💻 **Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,nodejs"/>
+</p>
+
+### 🎨 **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma"/>
 </p>
 
 ---
 
-# 🌐 **About Me**
-✨ A passionate **DevOps & Cloud Engineer**  
-🔧 Skilled in **Azure, Docker, Linux, CI/CD Pipelines**  
-💻 Also a **Full-Stack Web Developer**  
-🌱 Currently improving my **Kubernetes & Terraform skills**  
-🚀 Love building futuristic, clean, and useful projects  
-
----
-
-# ⚙️ **Tech Stack**
-
-### 🚀 **DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,githubactions,jenkins,terraform" />
-</p>
-
-### 💻 **Programming**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp" />
-</p>
-
-### 🎨 **Web Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
----
-
-# 📦 **Featured Projects**
-### 🚀 **DevOps Projects**
-- 🌀 Azure CI/CD Pipeline — GitHub Actions  
-- 🧊 Dockerized Web App  
-- ⚡ Nginx/Apache Load Balancer Setup  
-- 🔐 MongoDB Server + Compass Remote Access  
-- 🔁 Jenkins Pipeline + GitHub Integration  
-
-### 🌐 **Web Projects**
-- 🌾 **FarmSavvy** — Agriculture Website  
-- 🍽️ **Flavor Nexus** — Menu + Review Platform  
-- 🎮 **Gaming Blog** — Membership + Redirection  
-- 🎥 **Film Review Website**  
-- 💸 **Budget Planning Web App**
-
----
-
-# 📊 **GitHub Analytics**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DhyeyPatel&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyPatel&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://gi
+# 🌟 **My Aesthetic Dev Quote**
+```yaml
+"The future belongs to those who automate it."

@@ -32,9 +32,33 @@
 # 🚀 **Skills Overview With Level Bars**
 
 ### ⚙ DevOps & Cloud
+
 Azure ████████████████░░ 90%
 Docker ██████████████░░░░ 85%
 Linux ██████████████░░░░ 82%
 CI/CD Pipelines █████████████░░░░░ 80%
 GitHub Actions █████████████░░░░░ 78%
 Kubernetes ████████████░░░░░░ 70%
+
+---
+
+# 🎨 **Tech Stack — Neon Icons**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,githubactions,jenkins,terraform,nginx,git,python,java,js,html,css,react,nodejs,figma,mongodb,mysql" />
+</p>
+
+---
+
+# 🏆 **My Achievements**
+✨ Built complete DevOps CI/CD pipelines  
+🔥 Designed multiple modern websites  
+🧪 Completed several real-world cloud projects  
+🎯 Skilled in Automation + Deployment + Infra  
+🏅 Strong foundation in server setup & load balancing  
+🚀 Always improving + scaling skills  
+
+---
+
+# 🌟 **My Premium Quote**
+```yaml
+"Your skills are your superpower — build them like a legend."
